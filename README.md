@@ -46,4 +46,7 @@ Server browser -> http:// localhost:8080
 Frontend browser -> http://localhost:3000
 
 ### Screenshort
+
+![login.png](https://github.com/worldcoolguy/redux-saga-search/blob/master/login.png)
+![signup.png](https://github.com/worldcoolguy/redux-saga-search/blob/master/signup.png)
 ![app.png](https://github.com/worldcoolguy/redux-saga-search/blob/master/app.png)
